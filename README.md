@@ -52,4 +52,6 @@ $ pytest
 ```
 Se tudo estiver correto no código, conforme os testes programados, uma mensagem de sucesso será apresentada.
 
+Obrigado!
+
 
